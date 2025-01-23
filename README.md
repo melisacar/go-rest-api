@@ -1,4 +1,4 @@
-# Builidng RESTful APIs with Go
+# Building RESTful APIs with Go
 
 This guide demonstrates how to build a series of RESTful APIs using the [Echo](https://echo.labstack.com/) web framework in Go. We cover:
 
