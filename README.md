@@ -238,7 +238,7 @@ Update the `main.go` file with the following code:
         re := regexp.MustCompile(regex)
         return re.MatchString(email)
     }
-    ```
+```
 
 ### Testing the API
 
@@ -293,7 +293,6 @@ Update the `main.go` file with the following code:
         "error": "Invalid request"
     }
     ```
-
 
 ### Steps for Testing with Postman
 
