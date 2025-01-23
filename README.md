@@ -167,7 +167,7 @@ This example is a simple Go-based REST API for user registration. It accepts use
 
 Update the `main.go` file with the following code:
 
-    ```go
+```go
     package main
 
     import (
