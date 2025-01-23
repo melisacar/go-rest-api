@@ -150,7 +150,7 @@ func main() {
 
 ---
 
-## User Registration API
+## 3. User Registration API
 
 This example is a simple Go-based REST API for user registration. It accepts user details, validates the input, and returns a response.
 
